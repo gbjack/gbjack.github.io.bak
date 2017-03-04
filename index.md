@@ -1,3 +1,12 @@
+---
+layout: default
+title:  "Project page"
+date:   2017-03-04 16:16:01 -0600
+categories: HTML Email
+---
+
+
+
 # Veritas Backup Exec & System Recovery Christmas Promotion
 
 ![Vertias xmas-promo](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/veritas-xmas-promo.png)
