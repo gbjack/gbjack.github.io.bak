@@ -10,4 +10,4 @@ blah blah
 blah blah
 </div>
 
-<div style="clearfloat"></div>
+<div style="clear:both;"></div>
