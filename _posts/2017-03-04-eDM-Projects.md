@@ -17,4 +17,4 @@ categories: HTML Email
 # Incredible Race Reminder eDM
 
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/amazing-race.png)
-[See more GitHub...](https://github.com/gbjack/Veritus-Incredible-Race-Reminder)
+[View on GitHub...](https://github.com/gbjack/Veritus-Incredible-Race-Reminder)
