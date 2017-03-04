@@ -5,19 +5,16 @@ date:   2017-03-04
 categories: HTML Email
 ---
 
-
-
-# Veritas Backup Exec & System Recovery Christmas Promotion
+# Veritas Backup Exec & System Recovery Christmas Promotion eDM
 
 ![Vertias xmas-promo](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/veritas-xmas-promo.png)
-[See more...](https://github.com/gbjack/MY-Promo)
+[View on GitHub...](https://github.com/gbjack/MY-Promo)
 
 
 ---
 
 
-# Amazing Race Reminder eDM
+# Incredible Race Reminder eDM
 
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/amazing-race.png)
-
-[See more...](https://github.com/gbjack/Veritus-Incredible-Race-Reminder)
+[See more GitHub...](https://github.com/gbjack/Veritus-Incredible-Race-Reminder)
