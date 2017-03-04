@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default.html
 title:  "Project page"
 date:   2017-03-04 16:16:01 -0600
 categories: HTML Email
