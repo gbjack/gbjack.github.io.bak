@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HTML Email"
+title:  "HTML Emails"
 date:   2017-03-04
 categories: HTML Email
 ---
