@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Project page"
+title:  "HTML Email"
 date:   2017-03-04
 categories: HTML Email
 ---
