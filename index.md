@@ -1,10 +1,3 @@
-<div class="cardbox" markdown="1">
-## Column 1
-blah blah
-</div>
+# Amazing Race Reminder eDM
 
-<div class="cardbox" markdown="1">
-## Column 2
-blah blah
-</div>
-<div style="clear:both;"></div>
+![eDM preview](https://github.com/gbjack/Reminder-Amazing-Mid/blob/master/images/preview.png)
