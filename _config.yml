@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
+paginate: 15
 title: Current projects
 description: A list of all the lastest working projects
