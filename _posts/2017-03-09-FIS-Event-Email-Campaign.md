@@ -3,7 +3,7 @@ layout: post
 title:  "Email Campaign - FIS Banking Event Email Campaign"
 date:   2017-03-09
 categories: FIS
-tags: ['Digital', 'Web']
+tags: ['Digital', 'Email']
 ---
 
 # Manila Invite eDM
