@@ -3,7 +3,7 @@ layout: post
 title:  "EMC Campaigns"
 date:   2017-03-12
 categories: ['EMC']
-tags: ['Digital', 'Web', Print', 'infographics']
+tags: ['Digital', 'Web', 'Print', 'infographics']
 ---
 
 # EMC Back to the Future campaign
