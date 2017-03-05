@@ -9,3 +9,13 @@ title: Latest projects
 	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
 	  {% endfor %}
 	</ul>
+
+	{% for post in paginator.posts %}
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+        <p class="author">
+            <span class="date">{{ post.date }}</span>
+        </p>
+    <div class="content">
+        {{ post.content }}
+    </div>
+{% endfor %}
