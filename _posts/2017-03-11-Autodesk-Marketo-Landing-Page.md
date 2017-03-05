@@ -2,8 +2,8 @@
 layout: post
 title:  "Autodesk Marketo landing page"
 date:   2017-03-11
-categories: ['Marketo template', 'Landing page']  
-tags: [Marketo]
+categories: ['Autodesk']  
+tags: ['Marketo', 'Digital', 'Web', 'Landing page']
 ---
 
 # Autodesk BIM landing page A

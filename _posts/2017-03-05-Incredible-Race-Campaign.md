@@ -2,8 +2,8 @@
 layout: post
 title:  "Email Campaign - Veritas Incredible Race"
 date:   2017-03-05
-categories: eDM
-tags: [eDM]
+categories: [Veritas]
+tags: ['Digital', 'Web']
 ---
 
 # Incredible Race 1st Reminder eDM
@@ -25,3 +25,11 @@ tags: [eDM]
 # Incredible Race 2nd Post eDM
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/amazing-race.png)
 [View more...](https://goo.gl/WVdF7v)
+
+
+---
+
+
+# Veritas Workshop
+![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/hs3.png)
+[View more...](https://goo.gl/MqbiC0)

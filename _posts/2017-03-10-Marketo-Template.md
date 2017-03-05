@@ -2,8 +2,8 @@
 layout: post
 title:  "CommScope Marketo Email Template"
 date:   2017-03-10
-categories: ['Marketo template', 'Landing page']
-tags: [Marketo]
+categories: ['Autodesk']
+tags: ['Marketo', 'Digital', 'Web']
 ---
 
 # CommScope Newsletter

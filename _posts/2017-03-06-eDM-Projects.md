@@ -2,8 +2,8 @@
 layout: post
 title:  "Email Development"
 date:   2017-03-06
-categories: eDM
-tags: [eDM]
+categories: ['Seagate', 'Akamai', 'Beam and Brick']
+tags: ['Digital', 'Web']
 ---
 
 # Seagate Data Protection eDM

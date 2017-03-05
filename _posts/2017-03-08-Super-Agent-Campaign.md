@@ -2,8 +2,8 @@
 layout: post
 title:  "Adventures of Jack and Super Agent email campaign"
 date:   2017-03-08
-categories: eDM
-tags: eDM]
+categories: ['Veritas']
+tags: ['Digital', 'Web']
 ---
 
 # Veritas Super Agent
