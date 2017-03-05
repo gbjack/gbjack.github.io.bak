@@ -3,7 +3,7 @@ layout: post
 title:  "Email Development"
 date:   2017-03-06
 categories: Email
-tags: [HTML Email]
+tags: [eDM]
 ---
 
 # Seagate Data Protection eDM

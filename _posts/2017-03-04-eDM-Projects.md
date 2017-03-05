@@ -3,7 +3,7 @@ layout: post
 title:  "HTML Email Development"
 date:   2017-03-04
 categories: Email
-tags: [HTML Email]
+tags: [eDM]
 ---
 
 # Veritas Backup Exec & System Recovery Christmas Promotion eDM
