@@ -3,7 +3,7 @@ layout: post
 title:  "Macquarie Warrants Trade Hero Campaign"
 date:   2017-03-20
 categories: ['Macquarie']
-tags: ['Email', 'Print']
+tags: ['Email', 'Print', 'Landing page']
 ---
 
 # Landing page
