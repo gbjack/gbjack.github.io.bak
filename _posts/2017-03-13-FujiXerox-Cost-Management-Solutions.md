@@ -29,6 +29,3 @@ tags: ['Print', 'Digital', 'Web', 'Video', 'Microsite', 'Landing page']
 
 # Cost Management Solutions Video
 ![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement4.png)
-
-
----

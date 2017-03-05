@@ -43,6 +43,3 @@ tags: ['Print', 'Digital', 'Web', 'Video', 'Microsite', 'Landing page']
 
 # Mobility video
 ![Mobility](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/mobility6.png)
-
-
----

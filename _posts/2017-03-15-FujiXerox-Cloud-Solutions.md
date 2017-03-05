@@ -29,6 +29,3 @@ tags: ['Print', 'Digital', 'Web', 'Video', 'Microsite', 'Landing page']
 
 # Cloud Solutions video
 ![Mobility](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/cloud4.png)
-
-
----

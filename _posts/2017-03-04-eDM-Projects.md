@@ -15,7 +15,6 @@ tags: ['Digital', 'Email']
 ---
 
 
-
 # End User and Partner Promo eDM
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/backup-exec.png)
 [Vew more...](https://goo.gl/wNf2FG)
