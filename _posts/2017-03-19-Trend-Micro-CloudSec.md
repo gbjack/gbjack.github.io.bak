@@ -3,7 +3,7 @@ layout: post
 title:  "TrendMicro CloudSec"
 date:   2017-03-19
 categories: ['TrendMicro']
-tags: ['Print', 'Digital', 'Web', 'Email']
+tags: ['Print', 'Web', 'Email']
 ---
 
 # Campaign landing page

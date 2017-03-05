@@ -3,7 +3,7 @@ layout: post
 title:  "Motorola Email Campaign"
 date:   2017-03-18
 categories: ['Motorola']
-tags: ['Digital', 'Email']
+tags: ['Email']
 ---
 
 # Landing page

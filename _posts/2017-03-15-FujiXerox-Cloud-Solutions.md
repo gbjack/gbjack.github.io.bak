@@ -3,7 +3,7 @@ layout: post
 title:  "Fuji Xerox Cloud Solutions"
 date:   2017-03-15
 categories: ['Fuji Xerox']
-tags: ['Print', 'Digital', 'Web', 'Video', 'Microsite', 'Landing page']
+tags: ['Print', 'Web', 'Video', 'Microsite', 'Landing page']
 ---
 
 # Microsite

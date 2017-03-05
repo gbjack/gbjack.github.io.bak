@@ -3,7 +3,7 @@ layout: post
 title:  "CommScope Marketo Email Template"
 date:   2017-03-10
 categories: ['CommScope']
-tags: ['Marketo', 'Digital', 'Email']
+tags: ['Marketo', 'Email']
 ---
 
 # Marketo Newsletter

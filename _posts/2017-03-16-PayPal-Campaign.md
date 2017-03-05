@@ -3,7 +3,7 @@ layout: post
 title:  "PayPal Campaign - I'm Sold on PayPal"
 date:   2017-03-16
 categories: ['PayPal']
-tags: ['Print', 'Digital', 'Web', 'Video', 'Microsite', 'Landing page']
+tags: ['Print', 'Web', 'Video', 'Microsite', 'Landing page']
 ---
 
 # Microsite

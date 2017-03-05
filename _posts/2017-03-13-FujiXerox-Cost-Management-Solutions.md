@@ -3,7 +3,7 @@ layout: post
 title:  "Fuji Xerox Cost Management Solutions"
 date:   2017-03-13
 categories: ['Fuji Xerox']
-tags: ['Print', 'Digital', 'Web', 'Video', 'Microsite', 'Landing page']
+tags: ['Print', 'Web', 'Video', 'Microsite', 'Landing page']
 ---
 
 # Web banners
