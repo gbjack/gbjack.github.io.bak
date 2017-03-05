@@ -3,4 +3,5 @@ paginate: 15
 title: Jack
 description: Creative Designer, Email Developer and Front-End Developer
 permalink: /blog/:year/:month/:day/:title
+paginate: 5
 paginate_path: "/blog/page:num/"
