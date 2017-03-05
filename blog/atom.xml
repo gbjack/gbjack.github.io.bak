@@ -11,7 +11,7 @@ layout: feed
 	<id>https://gbjack.github.io/blog</id>
 	<author>
 		<name>Jack</name>
-		<email>gbjack@gmail.com</email>
+		<email></email>
 	</author>
 
 	{% for post in site.posts %}
