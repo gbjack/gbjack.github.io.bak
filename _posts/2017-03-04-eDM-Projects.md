@@ -17,4 +17,4 @@ categories: HTML Email
 # Incredible Race Reminder eDM
 
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/amazing-race.png)
-[View more...]https://goo.gl/y0qiKD)
+[View more...](https://goo.gl/y0qiKD)
