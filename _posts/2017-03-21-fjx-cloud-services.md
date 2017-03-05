@@ -3,7 +3,7 @@ layout: post
 title:  "Fuji Xerox AWMS"
 date:   2017-03-20
 categories: ['Fuji Xerox']
-tags: ['Email', 'Print']
+tags: ['Email', 'Print', 'Microsite']
 ---
 
 # Campaign video

@@ -3,7 +3,7 @@ layout: post
 title:  "TrustSphere"
 date:   2017-03-20
 categories: ['TrustSphere']
-tags: ['Print']
+tags: ['Print', 'Microsite']
 ---
 
 # Website
