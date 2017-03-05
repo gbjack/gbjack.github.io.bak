@@ -20,7 +20,16 @@
         <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
       {% endif %}
     </section>
-
+    <header>
+      <div class="container">
+        <div class="main-nav">
+          <ul>
+            <li><a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a></li>
+            <li><a href="/blog/index.html" {% if page.url == "/blog/index.html" %}class="active"{% endif %}> Blog</a></li>
+          </ul>
+        </div>
+      </div>
+    </header>
     <section class="main-content">
       {{ content }}
 
