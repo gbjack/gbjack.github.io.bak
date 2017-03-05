@@ -2,7 +2,7 @@
 layout: post
 title:  "HTML Email Development"
 date:   2017-03-04
-categories: Email
+categories: eDM
 tags: [eDM]
 ---
 

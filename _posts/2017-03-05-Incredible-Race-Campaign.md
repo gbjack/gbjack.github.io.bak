@@ -2,7 +2,7 @@
 layout: post
 title:  "Email Campaign - Veritas Incredible Race"
 date:   2017-03-05
-categories: Email
+categories: eDM
 tags: [eDM]
 ---
 
