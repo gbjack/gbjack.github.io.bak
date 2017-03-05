@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HTML Email Coding on Outlook"
+title:  "HTML Email Development"
 date:   2017-03-04
 categories: HTML Email
 ---
@@ -14,7 +14,7 @@ categories: HTML Email
 ---
 
 
-# Incredible Race 1st Reminder eDM
 
-![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/amazing-race.png)
-[View more...](https://goo.gl/y0qiKD)
+# End User and Partner Promo eDM
+![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/backup-exec.png)
+[Vew more...](https://goo.gl/wNf2FG)
