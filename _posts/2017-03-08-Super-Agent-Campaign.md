@@ -2,7 +2,7 @@
 layout: post
 title:  "Adventures of Jack and Super Agent email campaign"
 date:   2017-03-08
-categories: HTML Email
+categories: Email
 tags: [HTML Email]
 ---
 

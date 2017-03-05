@@ -2,7 +2,7 @@
 layout: post
 title:  "HTML Email Development"
 date:   2017-03-04
-categories: HTML Email
+categories: Email
 tags: [HTML Email]
 ---
 
