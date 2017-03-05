@@ -1,1 +1,1 @@
-## Listing of current projects
+# A list of current projects
