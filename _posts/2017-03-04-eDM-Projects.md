@@ -18,3 +18,43 @@ categories: HTML Email
 # End User and Partner Promo eDM
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/backup-exec.png)
 [Vew more...](https://goo.gl/wNf2FG)
+
+
+---
+
+
+# Veritas NetBackup 5200 Promo eDM
+![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/netbackup-5200-series.png)
+[View more..](https://goo.gl/KTDnha)
+
+
+---
+
+
+# Veritas Backup Exec Promo
+![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/backup-exec-2.png)
+[View more..](https://goo.gl/OY6FNT)
+
+
+---
+
+
+# Veritas Christmas eDM
+![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/cloud.png)
+[View more...](https://goo.gl/yr6o7o)
+
+
+---
+
+
+# Veritas Invite eDM
+![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/network.png)
+[View more...](https://goo.gl/zTjyQr)
+
+
+---
+
+
+# Veritas Double Margin Increase eDM
+![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/double.png)
+[View more...](https://goo.gl/ClNXcs)

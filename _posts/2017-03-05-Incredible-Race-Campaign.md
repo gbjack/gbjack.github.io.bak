@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Email Campaign Veritas Incredible Race"
+title:  "Email Campaign - Veritas Incredible Race"
 date:   2017-03-05
 categories: HTML Email
 ---
 
-# # Incredible Race 1st Reminder eDM
+# Incredible Race 1st Reminder eDM
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/amazing-race.png)
 [View more...](https://goo.gl/lLYCht)
 
