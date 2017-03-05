@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fuji Xerox Mobility"
-date:   2017-03-13
+date:   2017-03-14
 categories: ['Fuji Xerox']
 tags: ['Print', 'Digital', 'Web', 'Video', 'Microsite', 'Landing page']
 ---
