@@ -6,7 +6,7 @@ categories: FIS
 tags: ['Digital', 'Web']
 ---
 
-# FIS Manila Invite
+# FIS Manila Invite eDM
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fis1.png)
 [View more...](https://goo.gl/l2i2WJ)
 
@@ -14,7 +14,7 @@ tags: ['Digital', 'Web']
 ---
 
 
-# FIS Banking Consumer
+# FIS Banking Consumer eDM
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fis2.png)
 [View more...](https://goo.gl/3BFCG3)
 
@@ -22,7 +22,7 @@ tags: ['Digital', 'Web']
 ---
 
 
-# Financial Services Summit
+# Financial Services Summit eDM
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fis3.png)
 [View more...](https://goo.gl/v4UL6X)
 

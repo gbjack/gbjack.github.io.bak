@@ -6,7 +6,7 @@ categories: ['Veritas']
 tags: ['Digital', 'Web']
 ---
 
-# Veritas Super Agent
+# Veritas Super Agent eDM
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/veritas-super-agent.png)
 [View more...](https://goo.gl/cEJltC)
 
@@ -14,7 +14,7 @@ tags: ['Digital', 'Web']
 ---
 
 
-# The Adventures of Jack and Super Agent 15 End User
+# The Adventures of Jack and Super Agent 15 End User eDM
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/jack.png)
 [View more...](https://goo.gl/rf1nT8)
 
@@ -22,7 +22,7 @@ tags: ['Digital', 'Web']
 ---
 
 
-# The Adventures of Jack and Super Agent 15 End User
+# The Adventures of Jack and Super Agent 15 End User eDM
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/jack2.png)
 [View more...](https://goo.gl/9kvqUl)
 

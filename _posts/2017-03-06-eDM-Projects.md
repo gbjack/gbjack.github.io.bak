@@ -22,7 +22,7 @@ tags: ['Digital', 'Web']
 ---
 
 
-# Akamai API Meetup
+# Akamai API Meetup eDM
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/ak1.png)
 [View more...](https://goo.gl/vfJfaZ)
 

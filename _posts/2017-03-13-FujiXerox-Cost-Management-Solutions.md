@@ -6,8 +6,29 @@ categories: ['Fuji Xerox']
 tags: ['Print', 'Digital', 'Web', 'Video' ]
 ---
 
-# EMC Back to the Future campaign
-![Back to the Future Campaign](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/EMC-BTF-Campaign.png)
+# Cost management Solutions web banners
+![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement1.png)
+
+
+---
+
+
+# Cost management Solutions microsite
+![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement1.png)
+
+
+---
+
+
+# Cost management Solutions pull up banners and backdrop
+![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement3.png)
+
+
+---
+
+
+# Cost management Solutions video
+![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement4.png)
 
 
 ---
