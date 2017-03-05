@@ -2,6 +2,16 @@
 layout: default-sub
 title: Latest projects
 ---
+{% for post in paginator.posts %}
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+        <p class="author">
+            <span class="date">{{ post.date }}</span>
+        </p>
+    <div class="content">
+        {{ post.content }}
+    </div>
+{% endfor %}
+
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
@@ -26,4 +36,4 @@ title: Latest projects
     <span>Next &raquo;</span>
   {% endif %}
 </div>
-{% endif %}
+{% endif %}  
