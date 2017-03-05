@@ -6,6 +6,13 @@ categories: ['Motorola']
 tags: ['Digital', 'Email']
 ---
 
+# Landing page
+![Motorola](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/moto4.png)
+
+
+---
+
+
 # eDM Series 1
 ![Motorola](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/moto1.png)
 

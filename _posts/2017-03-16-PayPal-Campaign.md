@@ -6,14 +6,14 @@ categories: ['PayPal']
 tags: ['Print', 'Digital', 'Web', 'Video', 'Microsite', 'Landing page']
 ---
 
-# Brochure
+# Microsite
 ![paypal](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/paypal1.png)
 
 
 ---
 
 
-# Microsite and web banners
+# Web banners
 ![paypal](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/paypal2.png)
 
 
@@ -22,3 +22,9 @@ tags: ['Print', 'Digital', 'Web', 'Video', 'Microsite', 'Landing page']
 
 # PayPal videos
 ![paypal](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/paypal3.png)
+
+# Brochures
+![paypal](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/paypal4.png)
+
+
+---

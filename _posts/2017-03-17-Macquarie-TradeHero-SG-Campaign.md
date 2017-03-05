@@ -20,5 +20,5 @@ tags: ['Digital', 'Web', 'Video', 'Microsite', 'Landing page']
 ---
 
 
-# Web banners
+# Landing page and Web banners
 ![paypal](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/mq3.png)

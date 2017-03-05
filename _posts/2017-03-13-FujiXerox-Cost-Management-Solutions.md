@@ -14,6 +14,13 @@ tags: ['Print', 'Digital', 'Web', 'Video', 'Microsite', 'Landing page']
 
 
 # Microsite
+![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement5.png)
+
+
+---
+
+
+# Microsite
 ![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement1.png)
 
 
@@ -22,6 +29,13 @@ tags: ['Print', 'Digital', 'Web', 'Video', 'Microsite', 'Landing page']
 
 # Pull up banners and backdrop
 ![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement3.png)
+
+
+---
+
+
+# Brochure
+![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement6.png)
 
 
 ---
