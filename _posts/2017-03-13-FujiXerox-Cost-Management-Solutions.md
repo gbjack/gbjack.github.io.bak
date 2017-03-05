@@ -6,28 +6,28 @@ categories: ['Fuji Xerox']
 tags: ['Print', 'Digital', 'Web', 'Video' ]
 ---
 
-# Cost management Solutions web banners
+# Web banners
 ![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement1.png)
 
 
 ---
 
 
-# Cost management Solutions microsite
+# Microsite
 ![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement1.png)
 
 
 ---
 
 
-# Cost management Solutions pull up banners and backdrop
+# Pull up banners and backdrop
 ![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement3.png)
 
 
 ---
 
 
-# Cost management Solutions video
+# Video
 ![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement4.png)
 
 

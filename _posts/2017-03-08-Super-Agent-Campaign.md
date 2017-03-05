@@ -6,7 +6,7 @@ categories: ['Veritas']
 tags: ['Digital', 'Web']
 ---
 
-# Veritas Super Agent eDM
+# Super Agent eDM
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/veritas-super-agent.png)
 [View more...](https://goo.gl/cEJltC)
 

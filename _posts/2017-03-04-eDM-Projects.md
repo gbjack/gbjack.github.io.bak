@@ -6,7 +6,7 @@ categories: [Veritas]
 tags: ['Digital', 'Web']
 ---
 
-# Veritas Backup Exec & System Recovery Christmas Promotion eDM
+# Backup Exec & System Recovery Christmas Promotion eDM
 
 ![Vertias xmas-promo](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/veritas-xmas-promo.png)
 [View more...](https://goo.gl/wywfJ0)
@@ -24,7 +24,7 @@ tags: ['Digital', 'Web']
 ---
 
 
-# Veritas NetBackup 5200 Promo eDM
+# NetBackup 5200 Promo eDM
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/netbackup-5200-series.png)
 [View more..](https://goo.gl/KTDnha)
 
@@ -32,7 +32,7 @@ tags: ['Digital', 'Web']
 ---
 
 
-# Veritas Backup Exec Promo
+# Backup Exec Promo
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/backup-exec-2.png)
 [View more..](https://goo.gl/OY6FNT)
 
@@ -40,7 +40,7 @@ tags: ['Digital', 'Web']
 ---
 
 
-# Veritas Christmas eDM
+# Christmas eDM
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/cloud.png)
 [View more...](https://goo.gl/yr6o7o)
 
@@ -48,7 +48,7 @@ tags: ['Digital', 'Web']
 ---
 
 
-# Veritas Invite eDM
+# Invite eDM
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/network.png)
 [View more...](https://goo.gl/zTjyQr)
 
@@ -56,6 +56,6 @@ tags: ['Digital', 'Web']
 ---
 
 
-# Veritas Double Margin Increase eDM
+# Double Margin Increase eDM
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/double.png)
 [View more...](https://goo.gl/ClNXcs)
