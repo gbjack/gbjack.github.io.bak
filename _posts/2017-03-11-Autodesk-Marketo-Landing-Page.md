@@ -2,7 +2,7 @@
 layout: post
 title:  "Autodesk Marketo landing page"
 date:   2017-03-11
-categories: Marketo
+categories: [Marketo] [Landing page] 
 tags: [Marketo]
 ---
 
