@@ -3,7 +3,7 @@ layout: post
 title:  "PayPal Campaign - mCommerce"
 date:   2017-03-17
 categories: ['PayPal']
-tags: [Web', 'Video', 'Microsite', 'Landing page']
+tags: ['Video', 'Microsite', 'Landing page']
 ---
 
 # mCommerce microsite

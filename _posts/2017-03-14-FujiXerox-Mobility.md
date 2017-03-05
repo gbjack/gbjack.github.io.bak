@@ -3,7 +3,7 @@ layout: post
 title:  "Fuji Xerox Mobility"
 date:   2017-03-14
 categories: ['Fuji Xerox']
-tags: ['Print', 'Web', 'Video', 'Microsite', 'Landing page']
+tags: ['Print', 'Video', 'Microsite', 'Landing page']
 ---
 
 # Web banners

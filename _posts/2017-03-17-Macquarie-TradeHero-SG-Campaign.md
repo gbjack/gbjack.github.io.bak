@@ -3,7 +3,7 @@ layout: post
 title:  "Macquarie Trade Hero Campaign"
 date:   2017-03-17
 categories: ['Macquarie']
-tags: ['Web', 'Video', 'Microsite', 'Landing page']
+tags: ['Video', 'Microsite', 'Landing page']
 ---
 
 # Microsite and study series videos

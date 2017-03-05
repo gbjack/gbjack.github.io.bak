@@ -3,7 +3,7 @@ layout: post
 title:  "Motorola Experience Email Campaign"
 date:   2017-03-20
 categories: ['Motorola']
-tags: ['Web', 'Email']
+tags: ['Landing page', 'Microsite' 'Email']
 ---
 
 # Website and eDM
