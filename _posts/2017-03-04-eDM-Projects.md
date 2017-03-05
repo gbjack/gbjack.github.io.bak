@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HTML Emails"
+title:  "HTML Email Coding on Outlook"
 date:   2017-03-04
 categories: HTML Email
 ---
