@@ -13,7 +13,7 @@ categories: HDS Email
 ---
 
 
-#The Adventures of Jack and Super Agent 15 End User
+# The Adventures of Jack and Super Agent 15 End User
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/jack.png)
 [View more...](https://goo.gl/rf1nT8)
 
@@ -21,7 +21,7 @@ categories: HDS Email
 ---
 
 
-#The Adventures of Jack and Super Agent 15 End User
+# The Adventures of Jack and Super Agent 15 End User
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/jack2.png)
 [View more...](https://goo.gl/9kvqUl)
 
