@@ -3,6 +3,7 @@ layout: post
 title:  "Email Campaign - Veritas Incredible Race"
 date:   2017-03-05
 categories: HTML Email
+tags: [HTML Email]
 ---
 
 # Incredible Race 1st Reminder eDM

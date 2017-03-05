@@ -2,7 +2,8 @@
 layout: post
 title:  "Adventures of Jack and Super Agent email campaign"
 date:   2017-03-08
-categories: HDS Email
+categories: HTML Email
+tags: [HTML Email]
 ---
 
 # Veritas Super Agent

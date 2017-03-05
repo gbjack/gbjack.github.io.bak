@@ -3,6 +3,7 @@ layout: post
 title:  "Email Campaign - FIS Banking Event Email Campaign"
 date:   2017-03-09
 categories: HTML Email
+tags: [HTML Email]
 ---
 
 # FIS Manila Invite
