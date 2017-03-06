@@ -23,8 +23,8 @@ ul.topnav li.icon {display: none;}
 
 @media screen and (max-width:680px) {
   ul.topnav.responsive {position: relative;}
-  ul.topnav.responsive li.icon {position: absolute; left: 0;top: 0;}
+  ul.topnav.responsive li.icon {position: absolute; left: 25px;top: 0;}
   ul.topnav.responsive li.nav-list {float: none; display: inline;}
-  ul.topnav.responsive li.nav-list a {display: block; text-align: left;}
+  ul.topnav.responsive li.nav-list a {display: block; text-align: center;}
   ul.topnav li.nav-list {display: none;}
 }
