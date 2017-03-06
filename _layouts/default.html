@@ -61,12 +61,11 @@
       }
 
 
-      $(function() {
-        $('#nav li a').click(function() {
-           $('#nav li').removeClass();
-           $($(this).attr('href')).addClass('active');
-        });
-     });
+      for (var i = 0; i < document.links.length; i++) {
+    if (document.links[i].href == document.URL) {
+        document.links[i].className = 'active';
+    }
+}
     </script>
   </body>
 </html>
