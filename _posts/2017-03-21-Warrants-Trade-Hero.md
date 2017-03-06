@@ -20,7 +20,7 @@ tags: ['Email', 'Print', 'Landing page']
 ---
 
 
-# eDM
+# Campaign eDM Series
 ![TradeHero](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/w3.png)
 
 
@@ -34,7 +34,7 @@ tags: ['Email', 'Print', 'Landing page']
 ---
 
 
-# Donuts giveaway
+# Donuts giveaway to raise awareness
 ![TradeHero](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/w5.png)
 
 
