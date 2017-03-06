@@ -22,9 +22,8 @@ tags: ['Print', 'Video', 'Microsite', 'Landing page']
 ---
 
 
-# Microsite
+# Web banners
 ![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement1.png)
-[View website...](https://www.fxap.com.sg/solution/cms/index.jsp)
 
 
 ---
