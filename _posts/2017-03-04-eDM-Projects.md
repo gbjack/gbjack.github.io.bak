@@ -9,7 +9,7 @@ tags: ['Email']
 # Backup Exec & System Recovery Christmas Promotion eDM
 
 ![Veritas xmas-promo](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/veritas-xmas-promo.png)
-[View more...](https://goo.gl/wywfJ0)
+[View email...](https://goo.gl/wywfJ0)
 
 
 ---
@@ -17,7 +17,7 @@ tags: ['Email']
 
 # End User and Partner Promo eDM
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/backup-exec.png)
-[Vew more...](https://goo.gl/wNf2FG)
+[Vew email...](https://goo.gl/wNf2FG)
 
 
 ---
@@ -25,7 +25,7 @@ tags: ['Email']
 
 # NetBackup 5200 Promo eDM
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/netbackup-5200-series.png)
-[View more..](https://goo.gl/KTDnha)
+[View email..](https://goo.gl/KTDnha)
 
 
 ---
@@ -33,7 +33,7 @@ tags: ['Email']
 
 # Backup Exec Promo
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/backup-exec-2.png)
-[View more..](https://goo.gl/OY6FNT)
+[View email..](https://goo.gl/OY6FNT)
 
 
 ---
@@ -41,7 +41,7 @@ tags: ['Email']
 
 # Christmas eDM
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/cloud.png)
-[View more...](https://goo.gl/yr6o7o)
+[View email...](https://goo.gl/yr6o7o)
 
 
 ---
@@ -49,7 +49,7 @@ tags: ['Email']
 
 # Invite eDM
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/network.png)
-[View more...](https://goo.gl/zTjyQr)
+[View email...](https://goo.gl/zTjyQr)
 
 
 ---
@@ -57,4 +57,4 @@ tags: ['Email']
 
 # Double Margin Increase eDM
 ![image](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/double.png)
-[View more...](https://goo.gl/ClNXcs)
+[View email...](https://goo.gl/ClNXcs)
