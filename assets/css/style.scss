@@ -7,11 +7,11 @@
 .site-footer-credits {font-size: 0.8125rem;}
 h2.setGrey {color: #606c71;}
 .main-content h1, .main-content h2, .main-content h2 {color:#70559a;}
-.page-header{margin-top:50px;}
 ul.topnav {list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333;}
 ul.topnav li.nav-list {float: left;}
-ul.topnav li.nav-list a {display: inline-block; color: #606c71; text-align: center; padding: 14px 16px; text-decoration: none; transition: 0.3s; font-size: 16px;}
-ul.topnav li.nav-list a:hover {background-color: #555;}
+ul.topnav li.nav-list a {display: inline-block; color: #fff; text-align: center; padding: 14px 16px; text-decoration: none; transition: 0.3s; font-size: 16px;}
+li.nav-list a.active {background-color:#606c71; color:#fff;}
+ul.topnav li.nav-list a:hover {background-color: #606c71;}
 ul.topnav li.icon {display: none;}
 
 @media screen and (max-width:680px) {
