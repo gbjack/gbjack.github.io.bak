@@ -6,7 +6,7 @@ categories: ['Fuji Xerox']
 tags: ['Email', 'Print', 'Microsite']
 ---
 
-# Campaign video
+# Campaign SKO video
 ![Fuji Xerox](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/f1.png)
 
 
