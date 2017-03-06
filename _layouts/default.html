@@ -10,11 +10,12 @@
   </head>
   <body>
     <nav class="main-nav">
-      <ul class="nav-ul">
+      <ul class="topnav">
         <li class="nav-list"><a href="/">Home</a></li>
         <li class="nav-list"><a href="/blog/">Projects</a></li>
         <li class="nav-list"><a href="/blog/category.html">Clients</a></li>
         <li class="nav-list"><a href="/blog/tag.html">Category</a></li>
+        <li class="icon"><a href="javascript:void(0);" onclick="myFunction()">&#9776;</a></li>
       </ul>
     </nav>
     <section class="page-header">
@@ -48,5 +49,16 @@
         ga('send', 'pageview');
       </script>
     {% endif %}
+
+    <script>
+      function myFunction() {
+          var x = document.getElementById("myTopnav");
+          if (x.className === "topnav") {
+              x.className += " responsive";
+          } else {
+              x.className = "topnav";
+          }
+      }
+    </script>
   </body>
 </html>
