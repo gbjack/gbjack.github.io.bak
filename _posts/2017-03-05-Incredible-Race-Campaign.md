@@ -8,7 +8,7 @@ tags: ['Email']
 
 # Incredible Race 1st Reminder eDM
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/amazing-race.png)
-[View more...](https://goo.gl/lLYCht)
+[View email...](https://goo.gl/lLYCht)
 
 
 ---
@@ -17,14 +17,14 @@ tags: ['Email']
 # Incredible Race 2nd Reminder eDM
 
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/amazing-race.png)
-[View more...](https://goo.gl/y0qiKD)
+[View email...](https://goo.gl/y0qiKD)
 
 ---
 
 
 # Incredible Race 2nd Post eDM
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/amazing-race.png)
-[View more...](https://goo.gl/WVdF7v)
+[View email...](https://goo.gl/WVdF7v)
 
 
 ---
@@ -32,4 +32,4 @@ tags: ['Email']
 
 # Veritas Workshop
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/hs3.png)
-[View more...](https://goo.gl/MqbiC0)
+[View email...](https://goo.gl/MqbiC0)
