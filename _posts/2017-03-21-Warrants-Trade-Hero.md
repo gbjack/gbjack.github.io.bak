@@ -8,6 +8,7 @@ tags: ['Email', 'Print', 'Landing page']
 
 # Landing page
 ![TradeHero](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/w1.png)
+[View website...](https://www.warrants.com.sg/sp500)
 
 
 ---
