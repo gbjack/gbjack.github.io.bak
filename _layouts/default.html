@@ -9,15 +9,15 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
+    <nav class="main-nav">
+      <ul class="nav-ul">
+        <li class="nav-list"><a href="/">Home</a></li>
+        <li class="nav-list"><a href="/blog/">Projects</a></li>
+        <li class="nav-list"><a href="/blog/category.html">Clients</a></li>
+        <li class="nav-list"><a href="/blog/tag.html">Category</a></li>
+      </ul>
+    </nav>
     <section class="page-header">
-      <nav class="main-nav">
-        <ul class="nav-ul">
-          <li class="nav-list"><a href="/">Home</a></li>
-          <li class="nav-list"><a href="/blog/">Projects</a></li>
-          <li class="nav-list"><a href="/blog/category.html">Clients</a></li>
-          <li class="nav-list"><a href="/blog/tag.html">Category</a></li>
-        </ul>
-      </nav>
       <h1 class="project-name">{{ site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
         <!-- <a href="https://gbjack.github.io/" class="btn">Home</a>
