@@ -8,4 +8,4 @@ tags: ['Marketo', 'Email']
 
 # Marketo Newsletter
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/mar1.png)
-[View more...](https://goo.gl/zWrL4d)
+[View email...](https://goo.gl/zWrL4d)
