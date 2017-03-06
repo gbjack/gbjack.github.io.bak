@@ -8,6 +8,7 @@ tags: ['Print', 'Video', 'Microsite', 'Landing page']
 
 # Web banners
 ![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement1.png)
+[View website...](https://www.fxap.com.sg/solution/cms/index.jsp)
 
 
 ---
@@ -15,6 +16,7 @@ tags: ['Print', 'Video', 'Microsite', 'Landing page']
 
 # Microsite
 ![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement5.png)
+[View website...](https://www.fxap.com.sg/solution/cms/index.jsp)
 
 
 ---
@@ -22,6 +24,7 @@ tags: ['Print', 'Video', 'Microsite', 'Landing page']
 
 # Microsite
 ![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement1.png)
+[View website...](https://www.fxap.com.sg/solution/cms/index.jsp)
 
 
 ---
@@ -43,3 +46,4 @@ tags: ['Print', 'Video', 'Microsite', 'Landing page']
 
 # Cost Management Solutions Video
 ![Cost management Solutions](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fxCostManagement4.png)
+[View video...](https://www.youtube.com/watch?v=DCOQqvBFV_A)
