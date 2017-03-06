@@ -8,7 +8,7 @@ tags: ['Email']
 
 # Manila Invite eDM
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fis1.png)
-[View more...](https://goo.gl/l2i2WJ)
+[View email...](https://goo.gl/l2i2WJ)
 
 
 ---
@@ -16,7 +16,7 @@ tags: ['Email']
 
 # Banking Consumer eDM
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fis2.png)
-[View more...](https://goo.gl/3BFCG3)
+[View email...](https://goo.gl/3BFCG3)
 
 
 ---
@@ -24,7 +24,7 @@ tags: ['Email']
 
 # Financial Services Summit eDM
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fis3.png)
-[View more...](https://goo.gl/v4UL6X)
+[View email...](https://goo.gl/v4UL6X)
 
 
 ---
@@ -32,4 +32,4 @@ tags: ['Email']
 
 # FIS-Global-Banking-Perspectives
 ![Image of eDM](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/fis3.png)
-[View more...](https://goo.gl/32GVa0)
+[View email...](https://goo.gl/32GVa0)
