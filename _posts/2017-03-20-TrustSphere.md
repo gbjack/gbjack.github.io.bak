@@ -8,6 +8,7 @@ tags: ['Print', 'Microsite']
 
 # Website
 ![TrustSphere](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/ts1.png)
+[View website...](https://www.trustsphere.com/)
 
 
 ---
