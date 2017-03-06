@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "CyberSource Tis' the Season Campaign"
+title:  "CyberSource "'Tis the Season Campaign"
 date:   2017-03-20
 categories: ['CyberSource']
 tags: ['Print', 'Email', 'Microsite']
 ---
 
-# Brochure
+# Brochures design
 ![CyberSource](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/cy1.png)
 
 
@@ -20,5 +20,5 @@ tags: ['Print', 'Email', 'Microsite']
 ---
 
 
-# Web banner and social media
+# Web banners and social media banners
 ![CyberSource](https://raw.githubusercontent.com/gbjack/gbjack.github.io/master/assets/images/cy2.png)
