@@ -8,9 +8,9 @@ tags: ['Email','Marketo','Landing page']
 
 # CommScope Onboarding Landing Page #1
 ![image](https://raw.githubusercontent.com/gbjack/CommScope-Onboarding-Landing-Pages/master/images/preview.png)  
-[View eDM...](https://goo.gl/2tF6C2)
+[View page...](https://goo.gl/2tF6C2)
 
 
 # CommScope Onboarding Thank You Page #1
 ![image](https://raw.githubusercontent.com/gbjack/CommScope-Onboarding-Landing-Pages/master/images/preview2.png)  
-[View eDM...](https://goo.gl/M7aR5Q)
+[View page...](https://goo.gl/M7aR5Q)
