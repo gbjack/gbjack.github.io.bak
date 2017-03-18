@@ -7,7 +7,8 @@
 .site-footer-credits {font-size: 0.8125rem;}
 h2.setGrey {color: #606c71;}
 .main-content h1, .main-content h2, .main-content h2 {color:#70559a;}
-ul.topnav {list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333;}
+.main-nav {width:100%}
+ul.topnav {list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333; width:1024px;}
 ul.topnav li.nav-list {float: left;}
 ul.topnav li.nav-list a {display: inline-block; color: #fff; text-align: center; padding: 14px 16px; text-decoration: none; transition: 0.3s; font-size: 16px;}
 li.nav-list a.active {background-color:#606c71; color:#fff;}
@@ -16,15 +17,12 @@ ul.topnav li.icon {display: none;}
 .icon a:hover{ text-decoration:none;}
 
 @media screen and (max-width:680px) {
+  ul.topnav {width:100%;}
   ul.topnav li:not(:first-child) {display: none;}
   ul.topnav li.icon {float: left; display: inline-block; margin-left:25px;}
   ul.topnav li.nav-list {display: none;}
-}
-
-@media screen and (max-width:680px) {
   ul.topnav.responsive {position: relative;}
   ul.topnav.responsive li.icon {position: absolute; left: 25px;top: 0;}
   ul.topnav.responsive li.nav-list {float: none; display: inline;}
   ul.topnav.responsive li.nav-list a {display: block; text-align: center;}
-  ul.topnav li.nav-list {display: none;}
 }
