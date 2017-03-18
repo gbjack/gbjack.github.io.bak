@@ -18,7 +18,7 @@ ul.topnav li.icon {display: none;}
 
 @media screen and (max-width:680px) {
   ul.topnav li:not(:first-child) {display: none;}
-  ul.topnav li.icon {float:left; display:inline-block; display:none;}
+  ul.topnav li.icon {float:left; display:inline-block;}
   ul.topnav li.nav-list {display: none;}
   ul.topnav {padding: 0; margin: 0 auto; width:100%;}
   ul.topnav.responsive {position: relative;}
