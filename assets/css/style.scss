@@ -22,7 +22,7 @@ ul.topnav li.icon {display: none;}
   ul.topnav li.nav-list {display: none;}
   ul.topnav {padding: 0; margin: 0 auto; width:100%;}
   ul.topnav.responsive {position: relative;}
-  ul.topnav.responsive li.icon {position: absolute; left: 25px; top:0;}
+  ul.topnav.responsive li.icon {position: absolute; left: 25px; top:0; display:none;}
   ul.topnav.responsive li.nav-list {float: none; display: inline;}
   ul.topnav.responsive li.nav-list a {display: block; text-align: center;}
 }
