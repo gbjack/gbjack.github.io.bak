@@ -17,7 +17,7 @@ ul.topnav li.icon {display: none;}
 
 @media screen and (max-width:680px) {
   ul.topnav li:not(:first-child) {display: none;}
-  ul.topnav li.icon {float: left; display: inline-block; marign-left:25px;}
+  ul.topnav li.icon {float: left; display: inline-block; margin-left:25px;}
   ul.topnav li.nav-list {display: none;}
 }
 
