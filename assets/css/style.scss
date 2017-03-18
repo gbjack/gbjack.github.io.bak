@@ -19,11 +19,10 @@ ul.topnav li.icon {display: none;}
 @media screen and (max-width:680px) {
   ul.topnav li:not(:first-child) {display: none;}
   ul.topnav li.icon {float:left; margin-left:20px; display:inline-block;}
-  ul.topnav li.icon a:hover {display:none;}
   ul.topnav li.nav-list {display: none;}
   ul.topnav {padding: 0; margin: 0 auto; width:100%;}
   ul.topnav.responsive {position: relative;}
-  ul.topnav.responsive li.icon {position:absolute; left:20px; top:0;}
+  ul.topnav.responsive li.icon {position:absolute; left:0; top:0;}
   ul.topnav.responsive li.nav-list {float: none; display: inline;}
   ul.topnav.responsive li.nav-list a {display: block; text-align: center;}
 }
